@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.google.cloud.backend.android.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.hpritch5.give_me_ltc.ChatActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.hpritch5.give_me_ltc.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.hpritch5.give_me_ltc.MainActivity { <init>(...); }
+
+# onClick res/layout/activity_chat.xml #generated:21
+-keepclassmembers class * { *** onSendButtonPressed(...); }
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="sendMessage">sendMessage</string>
+    <string name="emptystring"></string>
+    
+    <string name="app_name">Give-Me-Ltc</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="confirmedRewards">Confirmed Rewards</string>
+    <string name="roundEstimate">Round Estimate</string>
+    <string name="totalHashrate">Total Hashrate</string>
+    <string name="payoutHistory">Payout History</string>
+    <string name="roundShares">Round Shares</string>
+    <string name="bt_refresh">Refresh</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="scan">Scan QR Code</string>
+    <string name="chat">Chat</string>
+    <string name="options">Options</string>
+    <string name="about">About</string>
+    <string name="account">Account</string>
+    <string name="enterApiKey">Enter your API Key below:</string>
+
+</resources>
